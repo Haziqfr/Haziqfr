@@ -54,7 +54,7 @@
 <a href="https://github.com/Haziqfr">
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
-<a href="https://https://www.youtube.com/@traceflow10">
+<a href="https://www.youtube.com/@traceflow10">
   <img src="https://cdn.simpleicons.org/youtube/FF0000" height="40" />
 </a>
 </p>
