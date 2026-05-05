@@ -39,15 +39,12 @@
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=haziqfr&show_icons=true&theme=tokyonight" />
-</p>
-
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=haziqfr&theme=tokyonight" />
+
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=haziqfr&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=haziqfr&layout=compact&theme=tokyonight" height="180" />
 </p>
 
 
@@ -57,8 +54,8 @@
 <a href="https://github.com/Haziqfr">
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
-<a href="https://youtube.com/traceflow10">
-<img src="https://skillicons.dev/icons?i=youtube" />
+<a href="https://https://www.youtube.com/@traceflow10">
+  <img src="https://cdn.simpleicons.org/youtube/FF0000" height="40" />
 </a>
 </p>
 
