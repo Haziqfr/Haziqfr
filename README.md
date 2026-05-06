@@ -1,65 +1,81 @@
-<h1 align="center">Hi 👋, I'm Haziq</h1>
-<h3 align="center">Student • System Programming Enthusiast • 3D Designer</h3>
-
----
-
-### 🧠 About Me
-- 🎓 Student exploring low-level systems & creative tech  
-- 🔭 Currently building **ShawarmaOS**  
-- 🌱 Learning **System Programming & Low-Level Development**  
-- 🎨 Interested in **3D Design & Game Development**  
-- ⚡ Fun fact: *I use Arch btw* 🐧  
-
----
-
-### 🚀 Featured Project
-- 🧩 **ShawarmaOS**  
-  > A custom OS project focused on low-level system design and performance  
-
----
-
-### 🛠️ Tech Stack
-
-#### 💻 Languages
-<p>
-<img src="https://skillicons.dev/icons?i=c,cpp,rust,python,js" />
-</p>
-
-- ⚙️ Assembly (NASM)
-
-#### 🧰 Tools & Technologies
-<p>
-<img src="https://skillicons.dev/icons?i=git,docker,bash,figma,blender" />
-</p>
-
-- 🎮 Unreal Engine 5  
-
----
-### 📊 GitHub Stats
-
+<h1 align="center">Haziq (Rafid Islam)</h1>
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=haziqfr&show_icons=true&theme=tokyonight" />
-  <img src="https://streak-stats.demolab.com?user=haziqfr&theme=tokyonight" />
-
+  <b>System Programming • Low-Level Dev • 3D Design</b>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=haziqfr&layout=compact&theme=tokyonight" height="180" />
-</p>
-
-
-### 🌐 Connect with Me
-
-<p>
-<a href="https://github.com/Haziqfr">
-<img src="https://skillicons.dev/icons?i=github" />
-</a>
-<a href="https://www.youtube.com/@traceflow10">
-  <img src="https://cdn.simpleicons.org/youtube/FF0000" height="40" />
-</a>
+  Building close to the metal while exploring creative 3D workflows.
 </p>
 
 ---
 
-### ⚡ Philosophy
-> Build low-level. Understand everything. Create without limits.
+## 🧠 About Me
+
+* 🎓 Student focused on **low-level systems & performance**
+* 🔭 Currently building **ShawarmaOS**
+* 🌱 Learning **system internals, memory, and architecture**
+* 🎨 Exploring **3D design & real-time rendering**
+* 🐧 I use Arch btw
+
+---
+
+## 🚀 Featured Work
+
+### 🧩 ShawarmaOS
+
+> A custom operating system project focused on low-level architecture, performance, and control.
+> Built to understand systems from the ground up.
+
+---
+
+## ⚙️ Tech Stack
+
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,rust,python,js" />
+</p>
+
+`NASM (Assembly)`
+
+### Tools & Environment
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,bash,linux,blender" />
+</p>
+
+`Unreal Engine 5`
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=haziqfr&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=Haziqfr&theme=tokyonight&hide_border=true" height="150"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Haziqfr&layout=compact&card-width=500&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🌐 Connect
+
+<p align="center">
+  <a href="https://github.com/Haziqfr">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+  <a href="https://youtube.com/@traceflow10">
+    <img src="https://cdn.simpleicons.org/youtube/FF0000" height="40" />
+  </a>
+</p>
+
+---
+
+## ⚡ Philosophy
+
+<p align="center">
+  <i>Build low-level. Understand everything. Create without limits.</i>
+</p>
