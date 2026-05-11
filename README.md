@@ -25,6 +25,7 @@
 
 > A custom operating system project focused on low-level architecture, performance, and control.
 > Built to understand systems from the ground up.
+> 🔗 [ShawarmaOS](https://github.com/Haziqfr/ShawarmaOS)
 
 ---
 
